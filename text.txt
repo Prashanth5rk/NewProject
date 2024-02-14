@@ -1,0 +1,1 @@
+Those two are addition problems in python like 1 is adding of 2 numbers and another one is adding of 3 numbers
